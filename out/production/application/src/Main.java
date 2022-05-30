@@ -1,17 +1,5 @@
 public class Main {
 
-    /*
-    1. Clientul va cere urmatoarea aplicatie:
-    Firma noastra va vinde haine. Toate hainele noastre vor avea in comun o marca si un pret.
-    Vom vinde tricouri.
-    Vom vinde pantaloni, care vor avea un numar specific de buzunare.
-    Vom vinde hanorace, care pot sau nu pot avea gluga.
-    Vom vinde adidasi, care pot sau nu pot avea sireturi.
-
-    Clientii nostrii vor avea un nume, un buget si o lista de haine cumparate.
-    De asemenea, vrem ca toti clientii nostrii sa poata cumpara oricand hainele noastre.
-    Creati aplicatia si testati cazurile.
-     */
 
     public static void main(String[] args) {
 
